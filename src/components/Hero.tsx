@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "motion/react";
-import { Button } from "@/components/ui/button.tsx";
+import { Button } from "@/components/ui/button";
 
 export default function Hero() {
   return (
