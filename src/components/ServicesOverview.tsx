@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "motion/react";
 import { SERVICES } from "../constants";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card.tsx";
 import { ArrowRight } from "lucide-react";
 
 export default function ServicesOverview() {

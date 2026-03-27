@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { GALLERY_IMAGES } from "../constants";
-import { Dialog, DialogContent, DialogTrigger } from "@/components/ui/dialog";
+import { Dialog, DialogContent, DialogTrigger } from "@/components/ui/dialog.tsx";
 import { X, Maximize2 } from "lucide-react";
 
 export default function Gallery() {
